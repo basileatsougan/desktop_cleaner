@@ -32,5 +32,5 @@ for file_name in file_names:
         if file_name not in folder_names:
             print(f"The file '{file_name}' was not moved.")
         
-print("Operation completed.")
+print("Operation completed succesfully.")
         
