@@ -20,8 +20,7 @@ It moves files into their corresponding folders based on file extensions:
 .exe files go to the APK files folder.
 If a file doesn't match any of the specified types or is already in its respective folder, the script skips it.
 
-Logging:
-
+**3. Logging:**
 Files that don’t match the expected formats or folders are logged in the console.
 
 **Completion:**
@@ -39,7 +38,7 @@ Ensure Python 3 is installed on your system.
 Edit the path variable in the script to point to your Downloads directory (if it's different from C:/Users/scale/Downloads/).
 Run the script in your preferred Python environment.
 
-**python organize_downloads.py**
+**python desktop_cleaner.py**
 
 
 
