@@ -1,5 +1,4 @@
-**Downloads Folder Organizer
-**
+# Downloads Folder Organizer
 
 **Project Overview**
 
@@ -40,10 +39,20 @@ Ensure Python 3 is installed on your system.
 Edit the path variable in the script to point to your Downloads directory (if it's different from C:/Users/scale/Downloads/).
 Run the script in your preferred Python environment.
 
+**python organize_downloads.py**
 
 
 
 
+# Customization
+
+**Adding More File Types**: To organize additional file types, simply extend the elif conditions in the script to include the new file extensions and folder names.
+Changing Folder Names: You can modify the folder names in the folder_names array to fit your preferences.
+License
+This project is open-source and available under the MIT License.
+
+#Contributing
+Feel free to submit issues or contribute improvements through pull requests.
 
 
 
